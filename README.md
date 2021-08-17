@@ -32,7 +32,7 @@ A fullstack web developer residing at Ekiti State.Nigeria
 📫 Hit me up on my various social media handles 🔭:
 
 [LinkedIn](https://www.linkedin.com/in/samuel-aholu-b242711a3/)
-<a href="https://twitter.com/grtnxhor">
+<a href="https://twitter.com/sir_muhell">
   <img align="left" alt="My Twitter Account" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://wa.me/2348138865571">
