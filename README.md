@@ -19,9 +19,9 @@ My name is [Aholu Samuel]
 
 A fullstack web developer from Nigeria
 
-🔭 I’m currently working on creating online campus solutions that aids stress and hustle free campus experience. 
+<!-- 🔭 I’m currently working on creating online campus solutions that aids stress and hustle free campus experience. 
 
-🌱 I’m currently learning latest web technologies that will help create a perfect confidence on the web.
+🌱 I’m currently learning latest web technologies that will help create a perfect confidence on the web. -->
 
 💬 You can reach out to me on github about any [issues](https://github.com/Sir-muhell/Sir-muhell/issues)
 
