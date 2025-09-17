@@ -9,10 +9,9 @@
 
 ---
 
-## 🎯 **About Me**
+## 🎯 **Summary**
 
-I’m a fullstack engineer with proven experience building **scalable web and mobile applications** across **Web3, SaaS platforms, and real-time communication systems**.  
-My expertise spans **React.js, Next.js, React Native (Expo), Node.js, PHP, and blockchain wallet integrations**, with a strong focus on delivering **secure, performant, and user-friendly applications**.  
+Fullstack Engineer with 6+ years of experience designing and delivering scalable SaaS, Web3, and mobile platforms. Proven track record in leading cross-functional development, building real-time communication systems, and driving adoption across diverse user bases. Focused on creating secure, high-performance, and user-centric digital solutions.
 
 ---
 
