@@ -52,7 +52,7 @@ Fullstack Engineer with 6+ years of experience designing and delivering scalable
 ## 🚀 **Featured Projects**
 
 ### 💬 **Mentorship Platform (Multi-Tenant SaaS)**  
-- Designed and implemented a **role-based access control system** (SUPER_ADMIN, org_admin, mentor, mentee)  
+- Designed and implemented a **role-based access control system** 
 - Built an **invite-only onboarding workflow** with tokenized registration  
 - Engineered **real-time messaging** (one-on-one + group chat) using Socket.IO  
 - Added **community discussions** with likes, comments, and topic-based rooms  
