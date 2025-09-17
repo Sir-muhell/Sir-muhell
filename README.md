@@ -80,7 +80,7 @@ My expertise spans **React.js, Next.js, React Native (Expo), Node.js, PHP, and b
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF&icon_color=00D8FF)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sir-muhell&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF&icon_color=00D8FF)  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sir-muhell&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 
