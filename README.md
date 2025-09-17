@@ -3,7 +3,7 @@
 
 <div align="center">  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Apps+with+Web3+and+AI;Engineering+User-Centric+Solutions;Turning+Ideas+into+Production-Ready+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Apps+with+Web3+and+AI;Engineering+User-Centric+Solutions;TTurning+Ideas+into+Production-Ready+Products)](https://git.io/typing-svg)
 
 </div>  
 
@@ -39,7 +39,6 @@ My expertise spans **React.js, Next.js, React Native (Expo), Node.js, PHP, and b
 ### **Web3 & Blockchain**  
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) 
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white) 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=for-the-badge&logo=ethereum&logoColor=white) 
 ![Wagmi](https://img.shields.io/badge/Wagmi-4C51BF?style=for-the-badge&logo=ethereum&logoColor=white) 
 ![Web3Modal](https://img.shields.io/badge/Web3Modal-000000?style=for-the-badge&logo=web3.js&logoColor=white)  
