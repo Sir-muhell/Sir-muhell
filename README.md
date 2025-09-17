@@ -12,7 +12,7 @@
 ## 🎯 **About Me**
 
 I’m a fullstack engineer with proven experience building **scalable web and mobile applications** across **Web3, SaaS platforms, and real-time communication systems**.  
-My expertise spans **React.js, Next.js, React Native (Expo), Node.js, and blockchain wallet integrations**, with a strong focus on delivering **secure, performant, and user-friendly applications**.  
+My expertise spans **React.js, Next.js, React Native (Expo), Node.js, PHP, and blockchain wallet integrations**, with a strong focus on delivering **secure, performant, and user-friendly applications**.  
 
 ---
 
@@ -20,26 +20,34 @@ My expertise spans **React.js, Next.js, React Native (Expo), Node.js, and blockc
 
 ### **Frontend & Mobile**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  
 
 ### **Backend & APIs**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### **Web3**  
+### **Web3 & Blockchain**  
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2536EC?style=for-the-badge&logo=ethereum&logoColor=white)  
 ![Wagmi](https://img.shields.io/badge/Wagmi-4C51BF?style=for-the-badge&logo=ethereum&logoColor=white)  
 ![Web3Modal](https://img.shields.io/badge/Web3Modal-000000?style=for-the-badge&logo=web3.js&logoColor=white)  
 
 ### **DevOps & Tools**  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
@@ -109,4 +117,3 @@ My expertise spans **React.js, Next.js, React Native (Expo), Node.js, and blockc
 ![Profile Views](https://komarev.com/ghpvc/?username=Sir-muhell&color=00D8FF&style=for-the-badge)  
 
 </div>  
-     
